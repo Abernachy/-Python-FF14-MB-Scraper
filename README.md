@@ -1,3 +1,9 @@
+# Update - 1/31/21
+I have been given an opportunity to attend a Software Bootcamp sponsored by my work, at no cost to me.  As a result, I have had to devote my time and energy prepping for the required assessments and to learn the new language that will be taught in the bootcamp.  Due to that, I have decided to put this project on hold until such a time in the future.  I will probably eventually just redo this project using Javascript while I'm in the bootcamp.  
+
+If I don't get selected for the program, I will most likely continue to self learn Javascript and primarily use that language from here on, since I'll be able to replicate a lot of the work I do in Python with Javascript.  Worse case, I work both and find a way to mesh the two.
+
+
 # -Python-FF14-MB-Scraper 1.0 Release
 This is the FF14 Market Board scraper.
 
