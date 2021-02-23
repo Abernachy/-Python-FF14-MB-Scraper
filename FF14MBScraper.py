@@ -14,12 +14,13 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+
 # Get my datetime object for use with the file
 
 def writeTextfile(textinput,name):
     # This is a tool function
     with open(f'{name}.txt',"w") as f:
-        f.write(textinput)
+aslkjasdkl;awsejdl;k asdj;lkasjd;fk ajsdfkl; ajdsf;l        f.write(textinput)
         f.close()
 
 
