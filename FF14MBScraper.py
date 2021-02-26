@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 def writeTextfile(textinput,name):
     # This is a tool function
     with open(f'{name}.txt',"w") as f:
-aslkjasdkl;awsejdl;k asdj;lkasjd;fk ajsdfkl; ajdsf;l        f.write(textinput)
+        f.write(textinput)
         f.close()
 
 
